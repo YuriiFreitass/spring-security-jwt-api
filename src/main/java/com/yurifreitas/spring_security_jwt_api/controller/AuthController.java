@@ -26,4 +26,6 @@ public class AuthController {
 
 		return new LoginResponseDto(token);
 	}
+
+
 }
